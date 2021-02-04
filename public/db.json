@@ -1,0 +1,56 @@
+{
+    "services":[
+
+        {
+            "src": "https://i.imgur.com/vAU0ObO.jpg",
+            "title": "Производство оборудования",
+            "id": "1s4f2"
+        },
+
+        {
+            "src": "https://i.imgur.com/m96tJZU.jpg",
+            "title": "Металлическая мебель",
+            "id": "3dg53"
+        },
+
+        {
+            "src": "https://i.imgur.com/2Muk7M4.jpg",
+            "title": "Металлоконструкции",
+            "id": "4gye4"
+        },
+
+        {
+            "src": "https://i.imgur.com/4kgKrmY.jpg",
+            "title": "Металлообработка",
+            "id": "fr432g"
+        },
+
+        {
+            "src": "https://i.imgur.com/YPQ33tB.jpg",
+            "title": "Раскрой металла",
+            "id": "f46hy"
+        },
+
+        {
+            "src": "https://i.imgur.com/5Cir5qW.jpg",
+            "title": "Конструкторское бюро",
+            "id": "f42g4"
+        },
+
+        {
+            "src": "https://i.imgur.com/yu70uMF.jpg",
+            "title": "Аренда техники",
+            "id": "f43g4"
+        },
+
+        {
+            "src": "https://i.imgur.com/VvOG19s.jpg",
+            "title": "Ремонт техники",
+            "id": "gt43df"
+        }
+
+    ]
+}
+
+
+

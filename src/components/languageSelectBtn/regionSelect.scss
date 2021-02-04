@@ -1,0 +1,55 @@
+.select-region {
+  position: relative;
+  display: flex;
+  align-items: center;
+  transition: all 0.8s ease 0s;
+
+  @media (max-width: 776px) {
+    display: none;
+  }
+
+  &__arrow {
+    transition: transform .8s;
+
+    &_active {
+      transform: rotate(180deg);
+    }
+  }
+
+  &__flag {
+    padding-right: 15px;
+  }
+
+  &__item {
+    &:hover {
+      box-shadow: 0 0 9px 3px #000;
+      -webkit-box-shadow: 0 0 9px 3px #000;
+    }
+  }
+
+  &__menu {
+    position: absolute;
+    left: -10px;
+    top: 40px;
+    z-index: 101;
+    padding: 15px 10px;
+    background: rgba(62, 62, 62, 0.5);
+    animation: popap 1s;
+  }
+
+  &__item {
+    &:not(:last-child) {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+@keyframes popap {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
