@@ -1,2 +1,2 @@
-import AboutServises from "./AboutServises";
-export default AboutServises;
+import AboutServises from './AboutServises'
+export default AboutServises

@@ -1,2 +1,2 @@
-import MainSlider from "./MainSlider";
-export default MainSlider;
+import MainSlider from './MainSlider'
+export default MainSlider

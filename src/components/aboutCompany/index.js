@@ -1,2 +1,2 @@
-import AboutCompany from "./AboutCompany";
-export default AboutCompany;
+import AboutCompany from './AboutCompany'
+export default AboutCompany

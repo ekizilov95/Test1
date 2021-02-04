@@ -16,7 +16,6 @@ const AboutServises = ({items}) => {
         });
         
     }, []);    
-    
 
     return (
         <div className="services">

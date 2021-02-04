@@ -1,2 +1,2 @@
-import LanguageSelectBtn from "./LanguageSelectBtn";
-export default LanguageSelectBtn;
+import LanguageSelectBtn from './LanguageSelectBtn'
+export default LanguageSelectBtn
